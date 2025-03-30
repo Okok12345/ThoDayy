@@ -1,6 +1,6 @@
 // danh sách công việc
 let works = {
-    '😠': {
+    '😡': {
         name: 'câu cá',
         img: 'https://i.imgur.com/DoB5Cw8.gif',
         done: [
