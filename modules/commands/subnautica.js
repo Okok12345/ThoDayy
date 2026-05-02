@@ -7,7 +7,7 @@ module.exports.config = {
     credits: "Dàn code của D-Jukie, đàn cá của Heo Rừng UwU",
     description: "Câu cá ở một hành tinh khác, dựa theo tựa game Subnautica khiến bạn đái ra máu vì độ đa dạng của nó UwU",
     commandCategory: "Trò Chơi",
-    usages: "",
+    usages: "subnautica",
     cooldowns: 0,
     envConfig: {
         APIKEY: ""
