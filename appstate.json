@@ -1,23 +1,7 @@
 [
   {
-    "key": "sb",
-    "value": "5yf3adbHWtMcDFr6i7152qM-",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
     "key": "fbl_st",
-    "value": "100428108%3BT%3A29630092",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
-    "key": "ps_n",
-    "value": "1",
+    "value": "100618182%3BT%3A29630118",
     "domain": "facebook.com",
     "path": "/",
     "secure": true,
@@ -25,47 +9,7 @@
   },
   {
     "key": "fr",
-    "value": "0gsWHXbfxZ1FRv5OH.AWeh4Br8V2OTKV7eRdqqQrYJKdJhgqWXQ8EYCgrnQY0nICR5GSc.Bp9yUC..AAA.0.0.Bp9yj7.AWf4Ubk_ACTpVXWxOHA3K2FkQ90",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
-    "key": "locale",
-    "value": "vi_VN",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
-    "key": "vpd",
-    "value": "v1%3B565x375x3",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
-    "key": "ps_l",
-    "value": "1",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
-    "key": "datr",
-    "value": "qSX3aa19n4lmk6_QpmTGW8gy",
-    "domain": "facebook.com",
-    "path": "/",
-    "secure": true,
-    "httpOnly": false
-  },
-  {
-    "key": "c_user",
-    "value": "61567402463169",
+    "value": "0gsWHXbfxZ1FRv5OH.AWcmP_XmRSALwKhA0GdAWa1gHbJMhdCSL6Wz-hseFejRdxtzFck.Bp9yUC..AAA.0.0.Bp9y8L.AWd3a2UoCQ42MR6mBmmN0-8zAYw",
     "domain": "facebook.com",
     "path": "/",
     "secure": true,
@@ -80,8 +24,56 @@
     "httpOnly": false
   },
   {
+    "key": "ps_l",
+    "value": "1",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "vpd",
+    "value": "v1%3B565x375x3",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "c_user",
+    "value": "61567402463169",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "locale",
+    "value": "vi_VN",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "qSX3aa19n4lmk6_QpmTGW8gy",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
     "key": "wl_cbv",
-    "value": "v2%3Bclient_version%3A3157%3Btimestamp%3A1777805563",
+    "value": "v2%3Bclient_version%3A3157%3Btimestamp%3A1777807113",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "ps_n",
+    "value": "1",
     "domain": "facebook.com",
     "path": "/",
     "secure": true,
@@ -89,7 +81,15 @@
   },
   {
     "key": "xs",
-    "value": "41%3AHC5yuD8yTEkVPg%3A2%3A1777804705%3A-1%3A-1",
+    "value": "46%3ACrbNkjEq-9y5lQ%3A2%3A1777806668%3A-1%3A-1",
+    "domain": "facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "sb",
+    "value": "5yf3adbHWtMcDFr6i7152qM-",
     "domain": "facebook.com",
     "path": "/",
     "secure": true,
